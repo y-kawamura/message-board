@@ -1,8 +1,10 @@
 <template>
   <div id="app">
-    <router-view/>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <a class="navbar-brand" href="#">Full Stuck Message Board</a>
+    </nav>
+    <router-view />
   </div>
 </template>
 
-<style>
-</style>
+<style></style>
