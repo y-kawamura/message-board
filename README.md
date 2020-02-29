@@ -1,3 +1,3 @@
 # Message Borad
 
-##[DEMO](https://penta-message-board.now.sh/)
+## [DEMO](https://penta-message-board.now.sh/)
